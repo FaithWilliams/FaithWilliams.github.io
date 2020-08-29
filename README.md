@@ -21,7 +21,7 @@ body {
 .header {
   padding: 80px;
   text-align: center;
-  background: #00FFFF;
+  background: #E0FFFF;
   color: white;
 }
 
@@ -125,7 +125,7 @@ body {
 <body>
 
 <div class="header">
-  <h1>Faith Williams's art</h1>
+  <h1>Koi Fish</h1>
   <p>A <b>responsive</b> website created by me.</p>
 </div>
 
@@ -140,13 +140,13 @@ body {
   <div class="side">
     <h2>About Me</h2>
     <h5>Photo of me:</h5>
-    <div class="fakeimg" style="height:200px;">Image</div>
+    <div class="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ_sJtZ9r_VRYrLeAxARsC5icePZPNBZnv-4w&usqp=CAU" style="height:200px;">Image</div>
     <p>Some text about me in culpa qui officia deserunt mollit anim..</p>
     <h3>More Text</h3>
     <p>Lorem ipsum dolor sit ame.</p>
-    <div class="fakeimg" style="height:60px;">Image</div><br>
-    <div class="fakeimg" style="height:60px;">Image</div><br>
-    <div class="fakeimg" style="height:60px;">Image</div>
+    <div class="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRftv82d_ityh2ZnPnOmT88PISWAeLoMyhygg&usqp=CAU" style="height:60px;">Image</div><br>
+    <div class="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn0.wideopenpets.com%2Fwp-content%2Fuploads%2F2016%2F03%2FAdobeStock_104233406-770x405.jpg&imgrefurl=https%3A%2F%2Fwww.wideopenpets.com%2Feverything-need-know-koi%2F&tbnid=MWeDXxmDomEI2M&vet=12ahUKEwiXtYXWmr_rAhW0AzQIHeZOBfkQMygfegUIARDIAg..i&docid=ijCK3hYLdRli_M&w=770&h=405&q=koi%20fish&ved=2ahUKEwiXtYXWmr_rAhW0AzQIHeZOBfkQMygfegUIARDIAg" style="height:60px;">Image</div><br>
+    <div class="https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1517361265-3bd77c6f1689%3Fixlib%3Drb-1.2.1%26ixid%3DeyJhcHBfaWQiOjEyMDd9%26auto%3Dformat%26fit%3Dcrop%26w%3D1000%26q%3D80&imgrefurl=https%3A%2F%2Funsplash.com%2Fphotos%2F7rR_WSk4HM0&tbnid=V9T2101ph_JqmM&vet=12ahUKEwiXtYXWmr_rAhW0AzQIHeZOBfkQMygdegUIARDEAg..i&docid=PsnpuroTJ6RLxM&w=1000&h=667&q=koi%20fish&ved=2ahUKEwiXtYXWmr_rAhW0AzQIHeZOBfkQMygdegUIARDEAg" style="height:60px;">Image</div>
   </div>
   <div class="main">
     <h2>TITLE HEADING</h2>
@@ -157,7 +157,7 @@ body {
     <br>
     <h2>TITLE HEADING</h2>
     <h5>Title description, Sep 2, 2017</h5>
-    <div class="fakeimg" style="height:200px;">Image</div>
+    <div class="https://www.google.com/imgres?imgurl=https%3A%2F%2Feverythingkoi.com%2Fstatic%2Fversion1598515498%2Ffrontend%2FSmartsites%2Fpondcenter%2Fen_US%2Fimages%2Fkoi-fish-for-sale.jpg&imgrefurl=https%3A%2F%2Feverythingkoi.com%2F&tbnid=_wRsU3atIMDEOM&vet=12ahUKEwiXtYXWmr_rAhW0AzQIHeZOBfkQMygcegUIARDCAg..i&docid=ihg91ACyOiOMXM&w=1825&h=878&q=koi%20fish&ved=2ahUKEwiXtYXWmr_rAhW0AzQIHeZOBfkQMygcegUIARDCAg" style="height:200px;">Image</div>
     <p>Some text..</p>
     <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
   </div>
