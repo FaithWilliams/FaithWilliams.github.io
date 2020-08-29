@@ -21,7 +21,7 @@ body {
 .header {
   padding: 80px;
   text-align: center;
-  background: #1abc9c;
+  background: #00FFFF;
   color: white;
 }
 
@@ -125,7 +125,7 @@ body {
 <body>
 
 <div class="header">
-  <h1>My Website</h1>
+  <h1>Faith Williams's art</h1>
   <p>A <b>responsive</b> website created by me.</p>
 </div>
 
@@ -151,7 +151,7 @@ body {
   <div class="main">
     <h2>TITLE HEADING</h2>
     <h5>Title description, Dec 7, 2017</h5>
-    <div class="fakeimg" style="height:200px;">Image</div>
+    <div class="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmymodernmet.com%2Fwp%2Fwp-content%2Fuploads%2F2020%2F05%2Fhow-to-draw-koi-fish-thumbnail.jpg&imgrefurl=https%3A%2F%2Fmymodernmet.com%2Fhow-to-draw-koi-fish%2F&tbnid=Maiile6wnbThOM&vet=12ahUKEwiXtYXWmr_rAhW0AzQIHeZOBfkQMygSegUIARCjAg..i&docid=BMg7nuUX8n0pPM&w=1200&h=630&q=koi%20fish&ved=2ahUKEwiXtYXWmr_rAhW0AzQIHeZOBfkQMygSegUIARCjAg" style="height:200px;">Image</div>
     <p>Some text..</p>
     <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
     <br>
