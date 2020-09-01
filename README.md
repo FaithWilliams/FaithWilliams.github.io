@@ -140,7 +140,7 @@ body {
   <div class="side">
     <h2>About Me</h2>
     <h5>Photo of me:</h5>
-    <div class="koi fish" style="height:200px;">Image</div>
+    <div class="koi fish.jpg" style="height:200px;">Image</div>
     <p>Some text about me in culpa qui officia deserunt mollit anim..</p>
     <h3>More Text</h3>
     <p>Lorem ipsum dolor sit ame.</p>
