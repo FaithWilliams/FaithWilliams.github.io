@@ -113,8 +113,6 @@ body {
   <p>By Faith Williams</p>
 </div>
 
-<div class="row">
-  <div class="side"> 
     <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fanimals.net%2Fwp-content%2Fuploads%2F2019%2F11%2FKoi-3-650x425.jpg&imgrefurl=https%3A%2F%2Fanimals.net%2Fkoi%2F&tbnid=qOsK1e5UVEUZLM&vet=12ahUKEwimvJStv-frAhU0IX0KHZFwDVEQMygHegUIARC-AQ..i&docid=8HIQB88dRh5odM&w=650&h=425&q=koi%20fish%20habitat%20requirements&ved=2ahUKEwimvJStv-frAhU0IX0KHZFwDVEQMygHegUIARC-AQ" style="height:200px;">
     <h3>Koi Fish habiat</h3>
     <p>Koi fish can naturally live in ponds and lakes. If there are a lot in the enclouser they should have a larger space. A small enclose with over population can cause the fish to fight and kill one another.</p>
@@ -126,8 +124,6 @@ body {
     <img src="https://www.google.com/imgres?imgurl=http%3A%2F%2Fwww.thekoikeepers.com%2Ffeeding%2Flettuce.jpg&imgrefurl=http%3A%2F%2Fwww.thekoikeepers.com%2Ffeeding%2Ffeeding.html&tbnid=E8B2tPsu0EVPHM&vet=12ahUKEwj_poytwufrAhU_BDQIHR_8DIoQMygfegUIARCMAg..i&docid=LdZijiOVfuYTKM&w=285&h=200&q=koi%20fish%20feeding&hl=en&ved=2ahUKEwj_poytwufrAhU_BDQIHR_8DIoQMygfegUIARCMAg" style="height:60px;">
     <br>
     
-  </div>
-  <div class="main">
     <h3>Cohabitate</h3>
     <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fazgardens.com%2Fwp-content%2Fuploads%2F2017%2F05%2FAlgae-Eating-Chinese-High-Fin-Large-Banded-SharkBatfish.jpg&imgrefurl=https%3A%2F%2Fazgardens.com%2Fproduct%2Falgae-eating-chinese-high-fin-large-banded-sharkbatfish%2F&tbnid=LhmN5HuRjERVKM&vet=12ahUKEwip3sjIyefrAhVfAzQIHcTeDdMQMygAegUIARCyAQ..i&docid=RuQTjOwSgLk4wM&w=746&h=501&q=chinese%20high%20fin%20shark&ved=2ahUKEwip3sjIyefrAhVfAzQIHcTeDdMQMygAegUIARCyAQ" style="height:200px;">
     <p>Koi fish are very passive fish. They could live with any other fish. It all depends on the other fish's requirments. Some fish need certain tempatures or space. SOme fish will eat smaller ones. Do your resarch on any fish you want to add to the habitat.</p>
@@ -135,8 +131,6 @@ body {
     <h2>Threats</h2>
     <img src="https://www.google.com/imgres?imgurl=http%3A%2F%2Fwww.northeastnursery.com%2Fweb_images%2Fblogs%2F33%2F1310%2Fblue-heron-eating-koi.jpg&imgrefurl=https%3A%2F%2Fwww.northeastnursery.com%2Fblogs%2Fprotect-your-pond-from-blue-herons&tbnid=8a1O8LAniCGGWM&vet=12ahUKEwjLh4q9yufrAhWaFTQIHZYoCH8QMygGegUIARCuAQ..i&docid=JMKn6uK3dKsUNM&w=250&h=250&q=herons%20eating%20koi%20fish&ved=2ahUKEwjLh4q9yufrAhWaFTQIHZYoCH8QMygGegUIARCuAQ" style="height:200px;">
     <p>Koi fish have many threats. Some high risk threats are herons, domestic/feral cats, and raccons. There are means of protecting your fish. Some are animal decoys, live traps, and fish tunnels/shelters.  </p>
-  </div>
-</div>
 
 </body>
 </html>
